@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "GEN.1.1",
+      "reference": "Génesis 1:1",
+      "content": "En el principio creó Dios los cielos y la tierra."
+    },
+    {
+      "id": "GEN.1.2",
+      "reference": "Génesis 1:2",
+      "content": "Y la tierra estaba desordenada y vacía..."
+    }
+  ]
+} 

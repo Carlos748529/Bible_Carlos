@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "GEN",
+      "name": "Génesis",
+      "abbreviation": "Gen"
+    },
+    {
+      "id": "EXO",
+      "name": "Éxodo",
+      "abbreviation": "Exo"
+    }
+  ]
+} 
